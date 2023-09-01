@@ -1,0 +1,14 @@
+[
+  {
+    "module": "listdir"
+  },
+  {
+    "module": "environment"
+  },
+  {
+    "module": "screenshot",
+    "options": {
+      "filename": "screenshot"
+    }
+  }
+]
