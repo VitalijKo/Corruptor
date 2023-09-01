@@ -153,3 +153,7 @@ cython_debug/
 
 # Token
 token.txt
+
+# RSA
+key.pri
+key.pub
