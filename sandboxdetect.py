@@ -41,7 +41,7 @@ class Detector:
                 elif 32 < i < 127:
                     self.keystrokes += 1
 
-        return None
+        return
 
     def detect(self):
         previous_timestamp = None
