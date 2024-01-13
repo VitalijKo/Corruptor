@@ -17,7 +17,7 @@ def connect_github():
     username = 'VitalijKo'
     session = github3.login(username, token=token)
 
-    return session.repository(username, 'VitGOD')
+    return session.repository(username, 'Corruptor')
 
 
 def get_file_contents(dirname, module_name, repo):
